@@ -1,0 +1,4 @@
+def greet_user(name):
+  """
+  This function greets the user by printing a personalized message.
+  """
